@@ -1,4 +1,4 @@
-# Feature: User Registration
+# Feature: User Registration v2
 
 **Status:** Approved
 
